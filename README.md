@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤓 MSIN graduate student @CMU
+- 🔭 Interested in operating systems & programming language
+- 🌱 Currently learning storage systems and functional programming
+- 🚀 Looking for full-time 2022 summer internship in U.S.
+- 🏓 Like to play table tennis...
+- 📫 How to reach me: willendless@163.com
+- ⚡ Fun fact: Hunan Express is also a chain restaurant in India.
