@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌈 MSIN graduate student @CMU
+- 🌈 Currently, I am a MSIN graduate student @CMU
 - 🔭 Interested in operating systems & programming language
 - 🌱 Currently learning storage systems and functional programming
 - 🚀 Looking for full-time 2022 summer internship in U.S. [resume](https://willendless.github.io/assets/resume/resume.pdf)
