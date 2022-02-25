@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🚀 Looking for full-time 2022 summer internship in U.S. [resume](https://willendless.github.io/assets/resume/resume.pdf)
 - 🏓 Like to play table tennis...
 - 📫 How to reach me: willendless@163.com
-- ⚡ Fun fact: Function is pointer, function is value, and function is also vector.
+- ⚡ Fun fact: Function is pointer, function is value, function is vector, and function is also implications.
