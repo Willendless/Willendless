@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🌈 I'm currently a MSIN graduate student @CMU
 - 🔭 Interested in operating systems & programming language
-- 🌱 Currently learning storage systems and functional programming
-- 🚀 Looking for full-time 2022 summer internship in U.S. [resume](https://willendless.github.io/assets/resume/resume.pdf)
+- 🌱 Currently learning database systems and functional programming
+- 🚀 Will work on database compute engine in the summer. [resume](https://willendless.github.io/assets/resume/resume.pdf)
 - 🏓 Like to play table tennis...
-- 📫 How to reach me: willendless@163.com
+- 📫 How to reach me: willendless@163.com/jiaruil2@andrew.cmu.edu
 - ⚡ Fun fact: Function is pointer, function is value, function is vector, and function is also implication.
