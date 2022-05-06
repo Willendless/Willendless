@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🌱 Currently learning database systems and functional programming
 - 🚀 Will work on database compute engine in the summer. [resume](https://willendless.github.io/assets/resume/resume.pdf)
 - 🏓 Like to play table tennis...
-- 📫 How to reach me: willendless@163.com/jiaruil2@andrew.cmu.edu
+- 📫 How to reach me: jiaruil2@andrew.cmu.edu
 - ⚡ Fun fact: Function is pointer, function is value, function is vector, and function is also implication.
