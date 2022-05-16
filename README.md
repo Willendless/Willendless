@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌈 I'm currently a MSIN graduate student @CMU
 - 🔭 Interested in operating systems & programming language
 - 🌱 Currently learning database systems and functional programming
-- 🚀 Will work on database compute engine in the summer. [resume](https://willendless.github.io/assets/resume/resume.pdf)
+- 🚀 Working on database compute engine @pingcap. [resume](https://willendless.github.io/assets/resume/resume.pdf)
 - 🏓 Like to play table tennis...
 - 📫 How to reach me: jiaruil2@andrew.cmu.edu
 - ⚡ Fun fact: Function is pointer, function is value, function is vector, and function is also implication.
