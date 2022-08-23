@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌈 I'm currently a MSIN graduate student @CMU
-- 🔭 Interested in operating systems & programming language
+- 🔭 Interested in operating systems & programming language & cpp
+- 🥺 Cpp is a life long journey.
 - 🌱 Currently learning operating systems and functional programming
 - 🏓 Like to play table tennis...
 - 📫 How to reach me: jiaruil2@andrew.cmu.edu
